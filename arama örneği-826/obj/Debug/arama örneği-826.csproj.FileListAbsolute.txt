@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\bin\Debug\arama örneği-826.exe.config
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\bin\Debug\arama örneği-826.exe
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\bin\Debug\arama örneği-826.pdb
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama örneği-826.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama örneği-826.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama_örneği_826.Form1.resources
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama_örneği_826.Properties.Resources.resources
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama örneği-826.csproj.GenerateResource.cache
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama örneği-826.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama örneği-826.exe
+C:\Users\User\source\repos\arama örneği-826\arama örneği-826\obj\Debug\arama örneği-826.pdb
